@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyfallTXL
-- 🐕 I’m interested in dogs, travel and tech.
-- 🐍 I’m currently learning python.
+- 🐕 I’m interested in tech, travel and spending time with Don Vito (my dog).
+- 🐍 I’m currently learning Git
 
 <!---
 skyfallTXL/skyfallTXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
