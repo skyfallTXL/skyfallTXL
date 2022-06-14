@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skyfallTXL
+- 👋 Hi, I’m @skyfall-TXL
 - 🐕 I’m interested in tech, travel and spending time with Don Vito (my dog)
 - 🐯 I’m currently learning Git
 
