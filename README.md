@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skyfall-TXL
-- 🐕 I’m interested in tech, travel and spending time with Don Vito (my dog)
+- 🐕 I’m interested in tech, games, hiking, and spending time with Don Vito (my dog)
 - 🐍 Current obsession: Python, baby! 
 
 
