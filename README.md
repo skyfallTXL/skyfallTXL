@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyfall-TXL
 - 🐕 I’m interested in tech, games, hiking, and spending time with Don Vito (my dog)
-- 🐍 & 🍎 Current obsession: Python and Swift (I need an app!) 
+- 🐍 & 🍎 Current obsessions: Python and Swift (I need an app!) 
 
 
 <!---
