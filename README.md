@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyfall-TXL
 - 🐕 I’m interested in tech, games, hiking, and spending time with Don Vito (my dog)
-- 🐍 🎯 🐣 (Python, Dart, and Flutter)
+- 🐍 🦜 [Python, Swift]
 
 
 <!---
