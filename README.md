@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @skyfallTXL
-- 🐕 I’m interested in tech, games, hiking, and spending time with Don Vito (my dog)
-- 🐍 🦜 [Python, Swift]
+- 🐕 I’m interested in tech, videogames, hiking, travelling, and spending time with Don Vito (my dog)
+- Tech: Python, Javascript
+
 
 
 <!---
