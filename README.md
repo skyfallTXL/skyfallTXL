@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyfallTXL
 - 🤓 I'm interested in Python, data engineering, machine learning, and web development
-- 🐕 I have a dog, Don Vito and I love to take him on roadtrips
+- 🐕 I love my dog, traveling, gaming, and coding.
 
 
 <!---
