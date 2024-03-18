@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skyfallTXL
-- 🤓 I'm interested in Python, AI, data science, and web development
+- 🤓 I'm interested in Python, generative AI, ML, data science, and web development
 - 🐕 I love my dog, traveling, gaming, and coding.
 
 
